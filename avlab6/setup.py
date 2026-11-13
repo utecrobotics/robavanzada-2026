@@ -26,8 +26,8 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-        	'qr_example = avlab8.qr_example:main',
-        	'QR = avlab8.QR:main',
+        	'qr_example = avlab6.qr_example:main',
+        	'QR = avlab6.QR:main',
         ],
     },
 )
